@@ -20,4 +20,4 @@ You can find me on:
 
 The web: daftar.com.br
 GitHub: RodrigoSantosRodrigues
-LinkedIn: rodrigo
+LinkedIn: [rodrigo](https://www.linkedin.com/in/rodrigo-junior-rodrigues-dos-santos-9513b293/)
