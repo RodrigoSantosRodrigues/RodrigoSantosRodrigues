@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**RodrigoSantosRodrigues/RodrigoSantosRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+@RodrigoSantosRodrigues
+Rodrigo Rodrigues Santos
+hoplias
 
-Here are some ideas to get you started:
+Open Source projects
+I am creating some open source projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hoplias, open source: Hoplias, a web toolkit for automated karyotype assembly based on client-server architecture.
+
+Who am I
+I'm Rodrigo Jr Rodrigues dos Santos 😄 👋
+
+I'm a software developer 🤖 from Brazil 🇧🇷 living in Belo Horizonte - MG.
+
+I'm currently working on my free time on my open-source projects and other projects. 🤓
+
+You can find me on:
+
+The web: daftar.com.br
+GitHub: RodrigoSantosRodrigues
+LinkedIn: rodrigo
